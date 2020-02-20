@@ -16,7 +16,8 @@
 - [Webshell Resource](https://github.com/alphaSeclab/awesome-webshell/blob/master/Readme_en.md): Almost 150 open source tools, and 200 blog posts and videos about webhsell.
 - [Forensics Resource](https://github.com/alphaSeclab/awesome-forensics/blob/master/Readme_en.md): Almost 300 open source forensics tools, and 600 blog posts and videos about forensics.
 - [Honeypot Resource](https://github.com/alphaSeclab/awesome-honeypot/blob/master/Readme_en.md): 250+ Honeypot tools, 350+ Honeypot posts and videos
-- [Burp Suite Resource](https://github.com/alphaSeclab/awesome-burp-suite/blob/master/Readme_en.md): 400+ open source Burp plugins, 500+ posts and videos.
+- [Burp Suite Resource](https://github.com/alphaSeclab/awesome-burp-suite/blob/master/Readme_en.md): 400+ open source Burp plugins, 400+ posts and videos.
+- [Windows Security Resource](https://github.com/alphaSeclab/windows-security/blob/master/Readme_en.md): 1100+ open source tools about Windows security, 3300+ posts and videos.
 
 # 所有收集类项目:
 - [收集的所有开源工具: sec-tool-list](https://github.com/alphaSeclab/sec-tool-list): 超过21K, 包括Markdown和Json两种格式
@@ -36,5 +37,6 @@
 - [Webshell工具和分析/使用文章](https://github.com/alphaSeclab/awesome-webshell): Webshell资源收集, 包括150个Github项目, 200个左右文章
 - [取证相关工具和文章](https://github.com/alphaSeclab/awesome-forensics): 近300个取开源取证工具，近600与取证相关文章
 - [蜜罐资源](https://github.com/alphaSeclab/awesome-honeypot): 250+个开源蜜罐工具，350+与蜜罐相关文章
-- [Burp Suite资源](https://github.com/alphaSeclab/awesome-burp-suite): 400+个开源Burp插件，500+与Burp相关文章
+- [Burp Suite资源](https://github.com/alphaSeclab/awesome-burp-suite): 400+个开源Burp插件，400+与Burp相关文章
 - [Fuzzing资源](https://github.com/alphaSeclab/fuzzing-stuff): 500+个开源Fuzzing工具，800+与Fuzzing相关博客/视频/论文'
+- [Windows安全资源](https://github.com/alphaSeclab/windows-security): 1100+个开源工具，3300+相关博客/视频/论文'

@@ -18,6 +18,7 @@
 - [Honeypot Resource](https://github.com/alphaSeclab/awesome-honeypot/blob/master/Readme_en.md): 250+ Honeypot tools, 350+ Honeypot posts and videos
 - [Burp Suite Resource](https://github.com/alphaSeclab/awesome-burp-suite/blob/master/Readme_en.md): 400+ open source Burp plugins, 400+ posts and videos.
 - [Windows Security Resource](https://github.com/alphaSeclab/windows-security/blob/master/Readme_en.md): 1100+ open source tools about Windows security, 3300+ posts and videos.
+- [DBI/DBA Resource](https://github.com/alphaSeclab/DBI-Stuff/blob/master/Readme_en.md): Resources about Dynamic Instrumentation and Dynamic Binary Analysis.
 
 # 所有收集类项目:
 - [收集的所有开源工具: sec-tool-list](https://github.com/alphaSeclab/sec-tool-list): 超过21K, 包括Markdown和Json两种格式
@@ -40,3 +41,4 @@
 - [Burp Suite资源](https://github.com/alphaSeclab/awesome-burp-suite): 400+个开源Burp插件，400+与Burp相关文章
 - [Fuzzing资源](https://github.com/alphaSeclab/fuzzing-stuff): 500+个开源Fuzzing工具，800+与Fuzzing相关博客/视频/论文'
 - [Windows安全资源](https://github.com/alphaSeclab/windows-security): 1100+个开源工具，3300+相关博客/视频/论文'
+- [DBI/DBA资源](https://github.com/alphaSeclab/DBI-Stuff): 动态二进制插桩/动态二进制分析资源收集

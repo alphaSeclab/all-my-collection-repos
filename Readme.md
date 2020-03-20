@@ -18,6 +18,7 @@
 - [Honeypot Resource](https://github.com/alphaSeclab/awesome-honeypot/blob/master/Readme_en.md): 250+ Honeypot tools, 350+ Honeypot posts and videos
 - [Burp Suite Resource](https://github.com/alphaSeclab/awesome-burp-suite/blob/master/Readme_en.md): 400+ open source Burp plugins, 400+ posts and videos.
 - [Windows Security Resource](https://github.com/alphaSeclab/windows-security/blob/master/Readme_en.md): 1100+ open source tools about Windows security, 3300+ posts and videos.
+- [Android Security Resource](https://github.com/alphaSeclab/android-security/blob/master/Readme_en.md): Android security resources.
 - [DBI/DBA Resource](https://github.com/alphaSeclab/DBI-Stuff/blob/master/Readme_en.md): Resources about Dynamic Instrumentation and Dynamic Binary Analysis.
 - [Shellcode Resource](https://github.com/alphaSeclab/shellcode-resources/blob/master/Readme_en.md): Resources about Shellcode.
 
@@ -42,5 +43,6 @@
 - [Burp Suite资源](https://github.com/alphaSeclab/awesome-burp-suite): 400+个开源Burp插件，400+与Burp相关文章
 - [Fuzzing资源](https://github.com/alphaSeclab/fuzzing-stuff): 500+个开源Fuzzing工具，800+与Fuzzing相关博客/视频/论文'
 - [Windows安全资源](https://github.com/alphaSeclab/windows-security): 1100+个开源工具，3300+相关博客/视频/论文'
+- [Android安全资源](https://github.com/alphaSeclab/android-security)
 - [DBI/DBA资源](https://github.com/alphaSeclab/DBI-Stuff): 动态二进制插桩/动态二进制分析资源收集
 - [Shellcode资源](https://github.com/alphaSeclab/shellcode-resources): Shellcode资源收集

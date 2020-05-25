@@ -21,6 +21,8 @@
 - [Android Security Resource](https://github.com/alphaSeclab/android-security/blob/master/Readme_en.md): Android security resources.
 - [DBI/DBA Resource](https://github.com/alphaSeclab/DBI-Stuff/blob/master/Readme_en.md): Resources about Dynamic Instrumentation and Dynamic Binary Analysis.
 - [Shellcode Resource](https://github.com/alphaSeclab/shellcode-resources/blob/master/Readme_en.md): Resources about Shellcode.
+- [Anti-AV Resource](https://github.com/alphaSeclab/anti-av/blob/master/Readme_en.md): Resources about Anti-Virus and Anti-Anti-Virus.
+- [Xx Injection Resource](https://github.com/alphaSeclab/injection-stuff/blob/master/Readme_en.md): Resources about PE/DLL/Process/Thread/Code/ELF/Dylib Injection.
 
 # 所有收集类项目:
 - [收集的所有开源工具: sec-tool-list](https://github.com/alphaSeclab/sec-tool-list): 超过21K, 包括Markdown和Json两种格式
@@ -46,3 +48,5 @@
 - [Android安全资源](https://github.com/alphaSeclab/android-security)
 - [DBI/DBA资源](https://github.com/alphaSeclab/DBI-Stuff): 动态二进制插桩/动态二进制分析资源收集
 - [Shellcode资源](https://github.com/alphaSeclab/shellcode-resources): Shellcode资源收集
+- [免杀资源](https://github.com/alphaSeclab/anti-av): 杀软和免杀资源.
+- [各种注入资源](https://github.com/alphaSeclab/injection-stuff): PE/DLL/进程/线程/代码/Shellcode/ELF/Dylib注入.

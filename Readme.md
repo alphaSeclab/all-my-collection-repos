@@ -25,6 +25,7 @@
 - [Xx Injection Resource](https://github.com/alphaSeclab/injection-stuff/blob/master/Readme_en.md): Resources about PE/DLL/Process/Thread/Code/ELF/Dylib Injection.
 - [Obfuscation Resource](https://github.com/alphaSeclab/obfuscation-stuff/blob/master/Readme_en.md): Resources about source-code obfuscation and binary obfuscation.
 - [Cobalt Strike Resource](https://github.com/alphaSeclab/cobalt-strike/blob/master/Readme_en.md): Resources about Cobalt Strike.
+- [Persistence Resource](https://github.com/alphaSeclab/persistence/blob/master/Readme_en.md): Resources about Persistence.
 
 # 所有收集类项目:
 - [收集的所有开源工具: sec-tool-list](https://github.com/alphaSeclab/sec-tool-list): 超过21K, 包括Markdown和Json两种格式
@@ -54,3 +55,4 @@
 - [各种注入资源](https://github.com/alphaSeclab/injection-stuff): PE/DLL/进程/线程/代码/Shellcode/ELF/Dylib注入.
 - [混淆资源](https://github.com/alphaSeclab/obfuscation-stuff): 源码混淆和二进制混淆的资源
 - [Cobalt Strike资源](https://github.com/alphaSeclab/cobalt-strike): Cobalt Strike相关资源.
+- [驻留/持久化资源](https://github.com/alphaSeclab/persistence): 跟驻留/持久化相关的资源

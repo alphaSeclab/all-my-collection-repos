@@ -26,6 +26,7 @@
 - [Obfuscation Resource](https://github.com/alphaSeclab/obfuscation-stuff/blob/master/Readme_en.md): Resources about source-code obfuscation and binary obfuscation.
 - [Cobalt Strike Resource](https://github.com/alphaSeclab/cobalt-strike/blob/master/Readme_en.md): Resources about Cobalt Strike.
 - [Persistence Resource](https://github.com/alphaSeclab/persistence/blob/master/Readme_en.md): Resources about Persistence.
+- [Hooking Resource](https://github.com/alphaSeclab/hooking/blob/master/Readme_en.md): Resources about Hooking.
 
 # 所有收集类项目:
 - [收集的所有开源工具: sec-tool-list](https://github.com/alphaSeclab/sec-tool-list): 超过21K, 包括Markdown和Json两种格式
@@ -56,3 +57,4 @@
 - [混淆资源](https://github.com/alphaSeclab/obfuscation-stuff): 源码混淆和二进制混淆的资源
 - [Cobalt Strike资源](https://github.com/alphaSeclab/cobalt-strike): Cobalt Strike相关资源.
 - [驻留/持久化资源](https://github.com/alphaSeclab/persistence): 跟驻留/持久化相关的资源
+- [Hooking资源](https://github.com/alphaSeclab/hooking).
